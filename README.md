@@ -51,6 +51,8 @@ On **Web** this library uses [`zxing/browser`](https://github.com/zxing-js/brows
 
 ### Note on supported Capacitor versions
 
+`v7.x` supports Capacitor `v7.x` (FarmQA only)
+
 `v6.x` supports Capacitor `v6.x`
 
 `v5.x.x-beta.x` pre-release based on ML-Kit that supports Capacitor `v5.x`
